@@ -19,5 +19,4 @@ e.a = 45
 
 e.name = "Ashwed palve"
 print(e.fname, e.lname)
-
 e.show()
