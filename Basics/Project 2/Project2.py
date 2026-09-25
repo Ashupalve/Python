@@ -11,4 +11,4 @@ while (a!= n):
     else :
         guesses +=1
         print("Guess Lower Number")
-print(f"You guessed Number corrctly in {guesses} atempts")
+print(f"You guessed Number {n} corrctly in {guesses} atempts")
