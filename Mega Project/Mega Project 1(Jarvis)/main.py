@@ -9,5 +9,12 @@ engine=pyttsx3.init()
 def speak(text):
     engine.say(text)
     engine.runAndWait()
+
+def ProcessCommand (c):
+    if "open google" in c.lower():
+        webbrowser.open("https://google.com")
+    pass
+
+
 if __name__ == "__main__":
     speak("Initializing Jarvis...")
