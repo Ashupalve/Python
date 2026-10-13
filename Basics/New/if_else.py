@@ -7,3 +7,4 @@ elif a > b :
     print(f"{a} is grater than {b}")
 else :
     print(f"{a} = {b}")
+print ("Thank You")
