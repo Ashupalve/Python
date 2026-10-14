@@ -10,3 +10,4 @@ for i in l :
         i+=1
     else:
         print(f"{i} is odd no")
+print ("This is even odd code using list")
